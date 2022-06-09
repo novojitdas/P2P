@@ -9,6 +9,6 @@ Project for <a href="novojit.com"><span style="color:blue;">Software Engineering
  
 ## Team Members 
 
-| [Novojit Das](https://github.com/novojitdas) | [MD ](https://github.com/mfhopu21) | [Sharif](https://github.com/mfhopu21) | 
+| [Novojit Das](https://github.com/novojitdas) | [MD. Fahim Hasam ](https://github.com/mfhopu21) | [MD. Shariful Islam](https://github.com/mfhopu21) | 
 | :-: | :-: | :-: |
-|[![](https://github.com/novojitdas.png?size=50)](https://github.com/novojitdas) | [![](https://github.com/mfhopu21.png?size=50)](https://github.com/mfhopu21)  | [![](https://github.com/mfhopu21.png?size=50)](https://github.com/mfhopu21)  | 
+|[![](https://github.com/novojitdas.png?size=50)](https://github.com/novojitdas) | [![](https://github.com/mfhopu21.png?size=50)](https://github.com/mfhopu21)  | [![](https://github.com/MD-Shariful-islam-stamford.png?size=50)](https://github.com/MD-Shariful-islam-stamford)  | 
